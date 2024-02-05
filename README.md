@@ -1,5 +1,5 @@
 # Spin-wave theory
-This repository is created to examine elementary excitations from the ground state after determining localized states through mean-field theory.
+This repository is created to examine elementary excitations from the ground state after determining localized states through the mean-field theory.
 The details of the program is based on the spin-wave theory.
 
 # Requirement
